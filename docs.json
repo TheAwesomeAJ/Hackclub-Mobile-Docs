@@ -29,12 +29,12 @@
         ]
       },
       {
-        "tab": "YSWS Managers",
+        "tab": "YSWS Managers [WIP]",
         "groups": [
           {
             "group": "Guides",
             "pages": [
-              "index"
+              "ysws-managers/dev"
             ]
           },
           {
