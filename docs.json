@@ -18,31 +18,12 @@
             "pages": [
               "index",
               "quickstart",
-              "development"
             ]
-          },
+          }
           {
-            "group": "Customization",
+            "group": "Developers",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "developers/backend"
             ]
           }
         ]
@@ -57,33 +38,13 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "Developers",
-        "groups": [
-          {
-            "group": "Backend",
-            "pages": [
-              "developers/backend"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
       }
     ],
     "global": {
       "anchors": [
         {
           "anchor": "Slack Channel",
-          "href": "https://app.slack.com/client/E09V59WQY1E/C09NTG60T8X://",
+          "href": "https://app.slack.com/client/E09V59WQY1E/C09NTG60T8X/",
           "icon": "slack"
         }
       ]
