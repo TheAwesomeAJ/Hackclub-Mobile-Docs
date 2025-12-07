@@ -9,7 +9,7 @@
   },
   "favicon": "/favicon.svg",
   "banner": {
-    "content": "Unofficial Hack Club application. This product is independently developed and is not officially endorsed, sponsored, or supported by Hack Club.",
+    "content": "Unofficial Hack Club app. Independently made and not endorsed or supported by Hack Club.",
     "dismissible": false
   },
   "navigation": {
