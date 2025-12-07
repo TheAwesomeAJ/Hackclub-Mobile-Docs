@@ -8,6 +8,10 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
+  "banner": {
+    "content": "Unofficial Hack Club application. This product is independently developed and is not officially endorsed, sponsored, or supported by Hack Club.",
+    "dismissible": false
+  },
   "navigation": {
     "tabs": [
       {
@@ -15,16 +19,11 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart"
-            ]
+            "pages": ["index", "quickstart"]
           },
           {
             "group": "Developers",
-            "pages": [
-              "developers/backend"
-            ]
+            "pages": ["developers/backend"]
           }
         ]
       },
@@ -33,9 +32,7 @@
         "groups": [
           {
             "group": "Guides",
-            "pages": [
-              "ysws-managers/dev"
-            ]
+            "pages": ["ysws-managers/dev"]
           }
         ]
       }
