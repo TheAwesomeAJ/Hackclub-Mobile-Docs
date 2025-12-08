@@ -47,10 +47,6 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/light.png",
-    "dark": "/logo/dark.png"
-  },
   "navbar": {
     "links": [
       {
