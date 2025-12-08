@@ -4,8 +4,8 @@
   "name": "Hack Club Mobile",
   "colors": {
     "primary": "#ec3750",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#ec3750",
+    "dark": "#ec3750"
   },
   "favicon": "/favicon.svg",
   "banner": {
@@ -23,7 +23,7 @@
           },
           {
             "group": "Developers",
-            "pages": ["developers/backend"]
+            "pages": ["developers/backend"] 
           }
         ]
       },
@@ -33,6 +33,15 @@
           {
             "group": "Guides",
             "pages": ["ysws-managers/dev"]
+          }
+        ]
+      },
+      {
+        "tab": "Contributing",
+        "groups": [
+          {
+            "group": "How To's",
+            "pages": ["contributing/app", "contributing/docs"]
           }
         ]
       }
