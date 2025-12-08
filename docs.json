@@ -28,15 +28,6 @@
         ]
       },
       {
-        "tab": "YSWS Managers [WIP]",
-        "groups": [
-          {
-            "group": "Guides",
-            "pages": ["ysws-managers/dev"]
-          }
-        ]
-      },
-      {
         "tab": "Contributing",
         "groups": [
           {
